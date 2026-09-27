@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Southbank Specialty Coffee",
+        "longitude": 11.5328364,
+        "latitude": 48.1389356,
+        "description": "Guldeinstraße 30, 80339 München",
+        "url": "/southbank"
+    },
+    {
+        "id": "02",
+        "name": "Suuapinga Café - Specialty Coffee",
+        "longitude": 11.5687831,
+        "latitude": 48.1313517,
+        "description": "Müllerstraße 46, 80469 München",
+        "url": "/suuapinga"
+    },
+    {
+        "id": "03",
+        "name": "sweet spot kaffee – specialty coffee",
+        "longitude": 11.5777325,
+        "latitude": 48.1358358,
+        "description": "Heiliggeiststraße 1, 80331 München",
+        "url": "/sweet-spot-kaffee"
+    }
+]
